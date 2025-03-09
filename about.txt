@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BROS TECHNOLOGY GROUP</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <link rel="icon" href="./images/BROS%20TECHNOLOGY.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+    <script src="./js/main.js"></script>
+</head>
+
+<body>
+    <header class="header">
+        <a href="#" class="logo"><b style="font-size: 28px;">BROS TECHNOLOGY GROUP</b></a>
+        <div class="fas fa-bars"></div>
+        <nav class="navbar">
+            <ul>
+                <li><a href="index">home</a></li>
+                <li><a href="about">about</a></li>
+                <li><a href="service">services</a></li>
+                <li><a href="courses">Courses</a></li>
+                <li><a href="team">team</a></li>
+                <li><a href="careers">career</a></li>
+                <li><a href="#contactus">contact</a></li>
+                <li><a href="#faq">FAQ</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="home" class="home">
+        <img src="images/BROS%20TECHNOLOGY.png" alt="" width="200" height="200">
+        <h1 style="font-size: 35px; font-style: bold; ">Crafting digital solutions that transform ideas into realities</h1>
+        <h2>with BROS TECHNOLOGY </h2>
+        <div class="wave wave1"></div>
+        <div class="wave wave2"></div>
+        <div class="wave wave3"></div>
+    </section>
+
+    <section id="about" class="about">
+        <h1 class="heading">about us</h1>
+        <div class="row">
+            <div class="content">
+                Bros Technology Group LLC: Pioneering Software Solutions and Development Since 2019</h1>
+                <p> <b>Introduction </b><br>
+                    Bros Technology Group LLC is a dynamic and innovative software house that has been at the forefront of the software development industry since its establishment in 2019. The company is dedicated to providing cutting-edge technology solutions that cater to businesses of all sizes, helping them achieve digital transformation and optimize their operations. With a commitment to excellence, innovation, and customer satisfaction, Bros Technology Group LLC has built a strong reputation as a leading provider of software solutions and development services.
+                        <br>
+                     <b>Leadership and Vision </b><br>
+                    At the helm of Bros Technology Group LLC is Aliyan Memon, the Founder &amp; CEO, whose visionary leadership and expertise in the tech industry have been instrumental in the company's success. Under his guidance, the company has grown into a recognized name in software development, offering tailored solutions that address the unique needs of businesses across various industries. Aliyan Memon&rsquo;s passion for innovation and technological advancement drives the company to stay ahead of industry trends and consistently deliver high-quality software solutions.
+                        <br>
+                     <b>Our Journey: 2019 - Present </b><br>
+                    Since its inception in <b>2019</b>, Bros Technology Group LLC has evolved into a trusted technology partner for businesses seeking <b>custom software development, enterprise solutions, web and mobile applications, AI-driven technologies, and cloud-based systems.</b> The company's growth has been marked by its ability to adapt to changing technological landscapes, ensuring that its clients receive state-of-the-art solutions that enhance efficiency, productivity, and scalability.
+                    Over the years, Bros Technology Group LLC has successfully executed <b>numerous projects</b>, helping clients <b>streamline their processes, automate operations, and create innovative digital experiences.</b> The company has worked with businesses in various sectors, including <b>finance, healthcare, e-commerce, education, real estate, logistics, and startups</b>, providing them with tailor-made solutions that drive success.
+                        <br>
+                     <b>Core Services </b><br>
+                    <b>Bros Technology Group LLC offers a comprehensive suite of software development services, including:</b><br>
+                     
+                    <b>1. Custom Software Development</b><br>
+                    Designing and developing scalable, high-performance software applications tailored to business needs.
+                    End-to-end development, from concept and design to deployment and maintenance.
+                   <br><b> 2. Web Development</b><br>
+                    Building responsive, secure, and feature-rich websites and web applications.
+                    Utilizing the latest technologies such as React, Angular, Vue.js, Node.js, Laravel, and Python frameworks.
+                    <br><b>3. Mobile App Development</b><br>
+                    Creating native and cross-platform mobile applications for iOS and Android.
+                    Leveraging frameworks like Flutter, React Native, and Swift to deliver seamless user experiences.
+                    <br><b>4. Enterprise Software Solutions</b><br>
+                    Developing ERP, CRM, and business intelligence software to enhance business operations.
+                    Offering cloud-based and on-premise solutions for enterprise needs.
+                    <br><b>5. AI and Machine Learning Solutions</b><br>
+                    Implementing AI-driven analytics, automation, and predictive modeling to enhance business decision-making.
+                    Chatbots, NLP, and intelligent automation solutions.
+                    <br><b>6. E-commerce Solutions</b><br>
+                    Creating powerful e-commerce platforms, marketplaces, and online stores.
+                    Integrating payment gateways, inventory management, and customer engagement features.
+                    <br><b>7. Cloud Solutions &amp; DevOps</b><br>
+                    Providing cloud migration, SaaS development, and DevOps services for efficient deployment and management.
+                    Expertise in AWS, Azure, and Google Cloud for scalable infrastructure solutions.
+                    <br><b>8. Blockchain &amp; Fintech Solutions</b><br>
+                    Developing decentralized applications (DApps), smart contracts, and blockchain-based payment solutions.
+                    Secure and transparent fintech applications for digital transactions.
+                    Commitment to Innovation
+                    Bros Technology Group LLC thrives on innovation and continuous improvement. The company invests in R&amp;D and emerging technologies to stay ahead in the competitive landscape. With a team of experienced developers, designers, and engineers, the company ensures that every solution is built using industry best practices, cutting-edge tools, and robust security measures.
+                     <br><b>Client-Centric Approach </b><br>
+                    What sets Bros Technology Group LLC apart is its client-first philosophy. The company focuses on understanding client challenges and business objectives before crafting customized software solutions that align with their goals. By maintaining transparent communication, agile development methodologies, and continuous support, the company ensures that clients receive maximum value from their investments.
+                        <br>
+                     <b>Future Outlook </b><br>
+                    As technology continues to evolve, Bros Technology Group LLC is committed to expanding its capabilities, exploring new frontiers in AI, blockchain, IoT, and automation, and delivering innovative software solutions that empower businesses globally. The company aims to scale its operations, collaborate with industry leaders, and continue driving digital transformation for businesses worldwide.
+                        <br>
+                     <b>Conclusion </b><br>
+                    Since 2019, Bros Technology Group LLC has emerged as a leading software house, offering world-class software development and digital solutions. With a strong foundation built on innovation, expertise, and client satisfaction, the company continues to shape the future of technology under the leadership of Aliyan Memon. As the company moves forward, it remains committed to delivering high-quality, scalable, and future-ready software solutions that drive business success.
+                        <br>
+                    For more information about Bros Technology Group LLC and its services, visit our official website or contact us to discuss how we can help bring your digital vision to life.</p>
+
+            </div>
+        </div>
+
+
+
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+        <script src="lib/jquery/jquery.min.js"></script>
+        <script src="lib/jquery/jquery-migrate.min.js"></script>
+        <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="lib/easing/easing.min.js"></script>
+        <script src="lib/waypoints/waypoints.min.js"></script>
+        <script src="lib/counterup/counterup.min.js"></script>
+        <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+        <script src="lib/lightbox/js/lightbox.min.js"></script>
+
+
+
+
+
+
+
+        <div class="footer">
+            <div class="footer-top">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-6 footer-links">
+                            <h4>About Us</h4>
+                            <ul>
+                                <li>
+                                    <i class="ion-ios-arrow-forward"></i> <a href="#">Home</a>
+                                </li>
+                                <li>
+                                    <i class="ion-ios-arrow-forward"></i> <a href="about.html">About us</a>
+                                </li>
+                                <li>
+                                    <i class="ion-ios-arrow-forward"></i> <a href="service.html">Our services</a>
+                                </li>
+                                <li>
+                                    <i class="ion-ios-arrow-forward"></i> <a href="#">Terms &amp; condition</a>
+                                </li>
+                                <li>
+                                    <i class="ion-ios-arrow-forward"></i> <a href="#">Privacy policy</a>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 footer-links">
+                            <h4>Useful Links</h4>
+                            <ul>
+                                <li>
+                                    <i class="ion-ios-arrow-forward"></i> <a href="#portfolio">Portfolio</a>
+                                </li>
+                                <li>
+                                    <i class="ion-ios-arrow-forward"></i> <a href="#team">Team</a>
+                                </li>
+                                <li>
+                                    <i class="ion-ios-arrow-forward"></i> <a href="careers.html">Career</a>
+                                </li>
+                                <li>
+                                    <i class="ion-ios-arrow-forward"></i> <a href="#contact%20us">Contact</a>
+                                </li>
+                                <li>
+                                    <i class="ion-ios-arrow-forward"></i> <a href="#faq">FAQ</a>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 footer-contact" style="font-size: 1.5rem;">
+                            <h4>Contact Us</h4>
+                            <p>
+                                Karachi, Pakistan <br>
+                                <strong>Phone:</strong> +92-308-2837258<br>
+                                <strong>Email:</strong> brostechnology1k719@gmail.com<br>
+                            </p>
+
+                            <div class="social-links">
+                                <a href="https://www.facebook.com/"><i class="ion-logo-facebook"></i></a>
+                                <a href="https://twitter.com/login?lang=en"><i class="ion-logo-twitter"></i></a>
+                                <a href="https://www.linkedin.com/"><i class="ion-logo-linkedin"></i></a>
+                                <a href="https://www.instagram.com/"><i class="ion-logo-instagram"></i></a>
+                                <a href="https://accounts.google.com/servicelogin/signinchooser?flowName=GlifWebSignIn&amp;flowEntry=ServiceLogin"><i class="ion-logo-googleplus"></i></a>
+                            </div>
+
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 footer-newsletter">
+                            <h4>Subscription</h4>
+                            <p>With Our Skills Put Together, You Get An Ensemble Capable Of Doing Anything And Everything Your Brand Needs. Subscribe Here To Get Our Latest Updates.</p>
+                            <form action="" method="post">
+                                <input type="email" name="email"><input type="submit" value="Subscribe">
+                            </form>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-md-6 copyright" style="color: #fff; font-size: 1.3rem;">
+                        Copyright &copy; 2021 Brostechnology. All Rights Reserved.
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- chat bot -->
+        <script>
+            window.embeddedChatbotConfig = {
+                chatbotId: "M3ULZh375TPI9j4smaLIq",
+                domain: "www.chatbase.co"
+            }
+        </script>
+
+    </section>
+</body>
+
+</html>
