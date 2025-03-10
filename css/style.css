@@ -1356,22 +1356,6 @@ body{
             width: 100%;
         }
 }
-
-/* arrow */
-.container {
-    width: 60%;
-    padding: 20px;
-    background-color: white;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-.content {
-    overflow: hidden;
-    max-height: 100px;
-    transition: max-height 0.5s ease;
-}
-
 .see-more {
     cursor: pointer;
     color: #007BFF;
@@ -1382,16 +1366,36 @@ body{
     font-size: 22px;
     padding-bottom: 11px;
 }
-
-.arrow {
-    margin-right: 5px;
-    transition: transform 0.5s ease;
+/* Aliyanmemona.html */
+.containerx {
+    width: 80%;
+    margin: 20px auto;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+.headerx {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.headerx p{
+    font-size: 20px;
 }
 
-.see-more.active .arrow {
-    transform: rotate(180deg);
+.headerx img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
 }
-
-.see-more.active + .content {
-    max-height: 500px; /* Adjust the expanded height as needed */
+.bio-text {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333;
+}
+.bio-text h2 {
+    color: #2c3e50;
+}
+.bio-text p {
+    text-align: justify;
 }
